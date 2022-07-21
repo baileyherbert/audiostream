@@ -11,6 +11,8 @@ save it anywhere on your system. You can run this executable to start the progra
 
 ## Documentation
 
+![AudioStream Tray Icon](https://i.bailey.sh/nXW4rAdBoS.png)
+
 ### Automatic startup
 
 Right click the tray icon or open the program's options and enable the "Enable on startup" option. This will create a
